@@ -1,0 +1,22 @@
+{
+	"firstname":"Nilesh",
+	"lastname": "Bisne",
+	"Id":"nilesh4",
+	"designation":"Quality Engineer",
+	"Address": 
+	[
+	
+		{
+			"sector" : "28",
+			"House no" :"123",
+			"type":"primary address"
+		},
+
+		{
+			"sector":"34",
+			"House no": "145",
+			"type":"secondary addres"
+		}
+		
+	]
+}
